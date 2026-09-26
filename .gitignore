@@ -1,0 +1,8 @@
+# Ignore large models and plots for a clean repo
+*.pdf
+*.html
+*.png
+*.h5
+*.tex
+__pycache__/
+.ipynb_checkpoints/
